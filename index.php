@@ -1,3 +1,4 @@
+<html>
 <head>
   <!-- Required meta tags -->
   <meta charset="utf-8">
@@ -14,7 +15,7 @@
 color: #fff;
 font-size: 17px;
 font-weight: bold;
-//background-color: aqua;
+
 }  
 
 .pics{
